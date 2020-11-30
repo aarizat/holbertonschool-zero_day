@@ -44,4 +44,5 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Andres Ariza-Triana** - [aarizat](https://github.com/aarizat)
+* **Github** - [aarizat](https://github.com/aarizat)
+* **Twitter** - [@aarizatr](https://twitter.com/aarizatr)
