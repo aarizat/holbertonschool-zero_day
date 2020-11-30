@@ -4,7 +4,8 @@ Initials configurations to start the program at Holberton School.
 ## Description:
 
 This repositorio contains the first projects to start the path as software
-developer at Holberton School.
+developer at Holberton School. Each project has links to resources
+needed in order to develop the project.
 
 The list of projects:
 
